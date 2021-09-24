@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\capaEntidades\bin\Debug\netstandard2.0\capaEntidades.deps.json
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\capaEntidades\bin\Debug\netstandard2.0\capaEntidades.dll
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\capaEntidades\bin\Debug\netstandard2.0\capaEntidades.pdb
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\capaEntidades\obj\Debug\netstandard2.0\capaEntidades.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\capaEntidades\obj\Debug\netstandard2.0\capaEntidades.AssemblyInfo.cs
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\capaEntidades\obj\Debug\netstandard2.0\capaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\capaEntidades\obj\Debug\netstandard2.0\capaEntidades.dll
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\capaEntidades\obj\Debug\netstandard2.0\capaEntidades.pdb
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\capaEntidades\obj\Debug\netstandard2.0\capaEntidades.csproj.AssemblyReference.cache
