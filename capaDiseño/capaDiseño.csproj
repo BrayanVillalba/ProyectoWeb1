@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6ED017CF-F247-43CD-AA1B-91AFD8B43B8A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>capaDiseño</RootNamespace>
+    <AssemblyName>capaDiseño</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmActCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActCliente.Designer.cs">
+      <DependentUpon>frmActCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmActEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActEmpleado.Designer.cs">
+      <DependentUpon>frmActEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmActProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActProducto.Designer.cs">
+      <DependentUpon>frmActProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConCliente.Designer.cs">
+      <DependentUpon>frmConCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConEmpleado.Designer.cs">
+      <DependentUpon>frmConEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConProducto.Designer.cs">
+      <DependentUpon>frmConProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmElimCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmElimCliente.Designer.cs">
+      <DependentUpon>frmElimCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmElimEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmElimEmpleado.Designer.cs">
+      <DependentUpon>frmElimEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmElimProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmElimProducto.Designer.cs">
+      <DependentUpon>frmElimProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegCliente.Designer.cs">
+      <DependentUpon>frmRegCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegEmpleado.Designer.cs">
+      <DependentUpon>frmRegEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegProducto.Designer.cs">
+      <DependentUpon>frmRegProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmActCliente.resx">
+      <DependentUpon>frmActCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmActEmpleado.resx">
+      <DependentUpon>frmActEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmActProducto.resx">
+      <DependentUpon>frmActProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConCliente.resx">
+      <DependentUpon>frmConCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConEmpleado.resx">
+      <DependentUpon>frmConEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConProducto.resx">
+      <DependentUpon>frmConProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmElimCliente.resx">
+      <DependentUpon>frmElimCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmElimEmpleado.resx">
+      <DependentUpon>frmElimEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmElimProducto.resx">
+      <DependentUpon>frmElimProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegCliente.resx">
+      <DependentUpon>frmRegCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegEmpleado.resx">
+      <DependentUpon>frmRegEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegProducto.resx">
+      <DependentUpon>frmRegProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\capaEntidades\capaEntidades.csproj">
+      <Project>{5868525a-cfa8-4acb-b3b7-6264f86d2415}</Project>
+      <Name>capaEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\capaLogica\capaLogica.csproj">
+      <Project>{8ea44c1b-4d0e-4b7a-a4c3-0309a40f83de}</Project>
+      <Name>capaLogica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
