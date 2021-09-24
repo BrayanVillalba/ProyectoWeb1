@@ -1,0 +1,24 @@
+C:\Users\caden\source\repos\Reposteria\Reposteria\bin\Debug\Reposteria.exe.config
+C:\Users\caden\source\repos\Reposteria\Reposteria\bin\Debug\Reposteria.exe
+C:\Users\caden\source\repos\Reposteria\Reposteria\bin\Debug\Reposteria.pdb
+C:\Users\caden\source\repos\Reposteria\Reposteria\obj\Debug\Reposteria.csprojAssemblyReference.cache
+C:\Users\caden\source\repos\Reposteria\Reposteria\obj\Debug\Reposteria.Interfaz.frmRegistrarCliente.resources
+C:\Users\caden\source\repos\Reposteria\Reposteria\obj\Debug\Reposteria.Interfaz.frmRegistrarEmpleado.resources
+C:\Users\caden\source\repos\Reposteria\Reposteria\obj\Debug\Reposteria.Principal.resources
+C:\Users\caden\source\repos\Reposteria\Reposteria\obj\Debug\Reposteria.Properties.Resources.resources
+C:\Users\caden\source\repos\Reposteria\Reposteria\obj\Debug\Reposteria.csproj.GenerateResource.cache
+C:\Users\caden\source\repos\Reposteria\Reposteria\obj\Debug\Reposteria.csproj.CoreCompileInputs.cache
+C:\Users\caden\source\repos\Reposteria\Reposteria\obj\Debug\Reposteria.exe
+C:\Users\caden\source\repos\Reposteria\Reposteria\obj\Debug\Reposteria.pdb
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\bin\Debug\Reposteria.exe.config
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\bin\Debug\Reposteria.exe
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\bin\Debug\Reposteria.pdb
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\obj\Debug\Reposteria.csprojAssemblyReference.cache
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\obj\Debug\Reposteria.Interfaz.frmRegistrarCliente.resources
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\obj\Debug\Reposteria.Interfaz.frmRegistrarEmpleado.resources
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\obj\Debug\Reposteria.Principal.resources
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\obj\Debug\Reposteria.Properties.Resources.resources
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\obj\Debug\Reposteria.csproj.GenerateResource.cache
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\obj\Debug\Reposteria.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\obj\Debug\Reposteria.exe
+C:\Users\PC\Documents\UPC\IV Semestre\P3\Proyecto\Reposteria\Reposteria\obj\Debug\Reposteria.pdb
